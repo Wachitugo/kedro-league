@@ -17,3 +17,6 @@ matplotlib
 scipy                  
 seaborn
 jupyter
+pyspark
+liac-arff
+numpy

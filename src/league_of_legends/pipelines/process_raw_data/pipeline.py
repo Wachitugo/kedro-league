@@ -13,8 +13,8 @@ def create_pipeline(**kwargs):
             node(
                 func=load_arff_dataset,
                 inputs="raw_arff_dataset",  
-                outputs="cleaned_dataset", 
-                name="load_and_clean_arff_data"
+                outputs="arff_dataframe", 
+                name="load_arff_data"
             ),
         ]
     )
