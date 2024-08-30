@@ -1,0 +1,8 @@
+raw_arff_dataset:
+  type: text.TextDataset  
+  filepath: data/01_raw/dataset
+
+cleaned_dataset:
+  type: pandas.ParquetDataset 
+  filepath: data/02_intermediate/cleaned_dataset.parquet
+
