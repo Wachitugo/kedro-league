@@ -150,3 +150,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 session_store.db
+
+# Ignorar archivos de log
+*.log
+info.log.*
