@@ -20,3 +20,4 @@ jupyter
 pyspark
 liac-arff
 numpy
+statsmodels
