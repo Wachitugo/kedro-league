@@ -22,3 +22,4 @@ liac-arff
 numpy
 statsmodels
 imbalanced-learn
+imblearn
